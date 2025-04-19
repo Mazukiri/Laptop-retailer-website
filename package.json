@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "NodeJS hoangduc",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Project",
+    "NodeJS",
+    "dau",
+    "tien"
+  ],
+  "author": "Hoang Duc",
+  "license": "ISC"
+}
